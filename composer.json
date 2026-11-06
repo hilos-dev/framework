@@ -1,0 +1,9 @@
+{
+    "name": "hilos/framework",
+    "description": "Hilos v2 - High-performance cluster framework with lightweight daemon",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.4"
+    }
+}
